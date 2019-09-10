@@ -1,0 +1,39 @@
+h1{
+    background-color: chocolate;
+    color: blue;
+    text-decoration: line-through;
+    font-family: fantasy;
+}
+#hey1{
+    color: forestgreen;
+    background-color: darkorange;
+    text-decoration: underline
+}
+#bull{
+ background-color: beige;
+}
+.bull1{
+    color:yellow;
+    background-image: url(Images/Lamb_Sauce.jpg);
+}
+.bull2 {
+    background-color: darkturquoise;
+    color: red;   
+}
+.win{
+    color: #8f34eb;
+    background-image: url(Images/hey_hi.jpg);
+
+}
+.two{
+    background-color: coral;
+    font-family: sans-serif;
+    color: lawngreen;
+    
+    
+}
+td {
+    background-color: gainsboro;
+    border: 2px solid#000000;
+    
+}
